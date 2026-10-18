@@ -57,6 +57,7 @@ A modern, highly polished, fully responsive **Digital Resume & Engineering CV** 
      - **GPS-Fenced QR Code Attendance System:** Anti-cheat event check-in workflow where students scan dynamic QR codes; attendance is verified and accepted only when device GPS location confirms physical presence within designated campus coordinates.
      - **Serverless Push Notification Engine:** Powered by Firebase Cloud Functions that automatically fan-out real-time FCM (Firebase Cloud Messaging) push notifications to target device tokens whenever an event is published, with automated background pruning of dead tokens.
      - Tech Stack Badges: `[Kotlin]`, `[Firebase]`, `[Firestore]`, `[Cloud Functions]`, `[Google Maps / Location API]`, `[FCM Cloud Messaging]`, `[GPS Geofencing]`, `[QR Verification]`, `[3-Tier RBAC]`.
+     - Direct GitHub Repository link: [github.com/allancedrickgarvez-collab/CampusEventManager](https://github.com/allancedrickgarvez-collab/CampusEventManager).
    - **SPO2 Using Arduino (Heart Rate & Blood Oxygen Saturation Telemetry System):**
      - Medical telemetry device utilizing Arduino and pulse oximetry optical sensors (MAX30100/MAX30102) to measure SpO2 and heart rate in real-time over I2C communication.
      - Tech Stack Badges: `[Arduino]`, `[Embedded C/C++]`, `[Sensor Interfacing]`, `[Hardware Prototyping]`, `[I2C Protocol]`, `[Pulse Oximetry]`.
@@ -69,6 +70,7 @@ A modern, highly polished, fully responsive **Digital Resume & Engineering CV** 
      - Applied advanced OOP principles (Abstraction, Encapsulation, Inheritance, Polymorphism) and clean software architecture to engineer **Campus Event Manager** in Kotlin with 3-tier RBAC, real-time Firestore synchronization, anti-cheat GPS-geofenced QR attendance check-ins, and serverless FCM push notification fan-out via Cloud Functions.
      - **Issuing Entity:** ICCT Colleges Cainta (Main) Campus, Cainta, Rizal • Dept. of Computer Engineering.
      - **Visual Asset:** `assets/achievements/achievement-1.jpg` (equipped with multi-format fallback chain to `.png`, `.jpeg`, `.jpg.jpg`, and root copy).
+     - **GitHub Project Source:** [github.com/allancedrickgarvez-collab/CampusEventManager](https://github.com/allancedrickgarvez-collab/CampusEventManager).
    - Dedicated navigation link in desktop and mobile header navbar (`#achievements`).
 
 5. **Educational Attainment Timeline (`#education`):**
